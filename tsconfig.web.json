@@ -11,6 +11,7 @@
     "composite": true,
     "checkJs": true,
     "noImplicitAny": true,
+    "moduleResolution": "bundler",
     "useDefineForClassFields": true,
     "verbatimModuleSyntax": true,
     "lib": [
